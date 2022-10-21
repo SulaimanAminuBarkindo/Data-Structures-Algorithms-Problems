@@ -11,7 +11,7 @@
  * character is supplied. 
  * It invokes function to expand a format specfier if a 
  * specifier is found like %c otherwise print the character
- * /
+ */
 
 int _printf(const char *format, ...)
 {
